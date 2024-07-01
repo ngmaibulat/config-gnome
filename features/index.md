@@ -17,8 +17,16 @@
 ### Gnome 47
 
 - HW encoding for screencasts
+- gnome-calendar improvements
+- gnome-maps improvements
+- make X11 build optional
 
 ### Gnome 46
 
 - Ctrl + Super + 1 `launch 1st app on docker`
 - Better global search in Nautilus
+
+### Links
+
+- https://gitlab.gnome.org/groups/GNOME/-/milestones/32#tab-issues
+
