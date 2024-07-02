@@ -10,8 +10,6 @@
 - record screen: add microphone and webcamera
 - show battery information for bluetooth devices
 - file chooser sometimes opens on background
-- SPICE for Remote Desktop access
-- Bundled/Official RDP/SPICE client
 - Andriod integration: connect my phone, sync contacts/etc
 
 ### Gnome 47
